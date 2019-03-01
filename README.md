@@ -2,13 +2,14 @@
 
 Introduction
 ------------
+
 The goal of this project is to get familiar with programming in OCaml. I will have to write a number of small functions, each of which is specified in three sections below. 
+
 Project Files
 -------------
+
 The following are the relevant files:
 
-<!-- TODO add the real files to the document and ensure that they're correct -->
--  OCaml Files
   - **basics.ml**: This is where I write my code for all parts of the project.
   - **basics.mli**: This file is used to describe the signature of all the functions in the module. 
   - **public.ml**: This file contains all of the public test cases.
